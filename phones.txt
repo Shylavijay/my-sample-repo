@@ -1,0 +1,6 @@
+ samsung
+ apple
+ nokia
+ realme
+ Mia3
+ vivo
