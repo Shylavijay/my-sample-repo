@@ -1,0 +1,2 @@
+S_name = akash
+S_class = 4
